@@ -51,8 +51,6 @@ const Form = () => {
                             <MenuItem key={c.type} value={c.type}>{c.type}</MenuItem>)
                         }
                         {/* jsx dynamic block to add logic */}
-                        <MenuItem value="bussiness">Business</MenuItem>
-                        <MenuItem value="Salary">Salary</MenuItem>
                     </Select>
                 </FormControl>
             </Grid>
