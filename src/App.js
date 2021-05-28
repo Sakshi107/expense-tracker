@@ -8,8 +8,6 @@ import useStyles from './styles';
 
 import { SpeechState, useSpeechContext } from "@speechly/react-client";
 
-import {BrowserView,MobileView} from 'react-device-detect'
-
 const App = () => {
     const classes = useStyles();
     const { speechState } = useSpeechContext();
