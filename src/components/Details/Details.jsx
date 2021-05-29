@@ -12,7 +12,7 @@ const Details = ({ title }) => {
         <Card className={title === "Income" ? classes.income : classes.expense}>
             <CardHeader title={title} />
             <CardContent>
-                <Typography variant="h5">${total}</Typography>
+                <Typography variant="h5">₹{total}</Typography>
                 {/* {Object.keys(chartData).length !== 0 ? (<Doughnut data={chartData} />) : null} */}
                 <Doughnut data={chartData} />
             </CardContent>
