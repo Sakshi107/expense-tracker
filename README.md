@@ -4,9 +4,10 @@
 </p>
 <h2 align = 'center'>   Spendee - Track expenses with your voice</h2>
 
-[![](https://img.shields.io/badge/Made_with-Reactjs-green?style=for-the-badge&logo=reactjs)](https://reactjs.org/)
-[![](https://img.shields.io/badge/Styled_with-Material_ui-purple?style=for-the-badge&logo=Material-ui)](https://getbootstrap.com/docs/3.3/getting-started/)
-[![](https://img.shields.io/badge/Deployed_on-Netlify-blue?style=for-the-badge&logo=netlify)](https://www.netlify.com/  "Netlify")
+![](https://img.shields.io/badge/Framework-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Styled_with-Material_ui-blue?style=for-the-badge&logo=Material-ui)
+![](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 #### Description ##
 
