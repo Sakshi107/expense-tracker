@@ -27,6 +27,6 @@ https://speech-based-expense-tracker.netlify.app/
 
 ### Getting started ##
   
-  Clone the reposistory and run `npm i` to install all the dependencies<br>
+  Clone the repository and run `npm i` to install all the dependencies<br>
   Run `npm start` to start the react app<br>
   Navigate to `localhost:3000` on your browser
