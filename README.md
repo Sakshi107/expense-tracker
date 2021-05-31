@@ -4,21 +4,27 @@
 </p>
 <h2 align = 'center'>   Spendee - Track expenses with your voice</h2>
 
-![](https://img.shields.io/badge/Framework-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Styled_with-Material_ui-blue?style=for-the-badge&logo=Material-ui)
+![](https://img.shields.io/badge/Made_with-Reactjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Styled_with-Material_ui-007899?style=for-the-badge&logo=Material-ui)
 ![](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/IDE-Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 #### Description ##
-
 <p>
   Spendee is a simple expense tracker app which supports speech recognition for quick input. You can enter your incomes/expenses with your voice.i.e no need to type.It will help you to note,delete and categorize your incomes/expenses for easy budget management.
 </p>
 
+#### Demo ##
+![Demo Expense Tracker application](./demo/demo.gif)
+
+---
+
 #### Deployed expense tracker: ##
 https://speech-based-expense-tracker.netlify.app/
 
-#### Getting started
+---
+
+#### Getting started ##
   
   Clone the reposistory and run `npm i` to install all the dependencies<br>
   Run `npm start` to start the react app<br>
